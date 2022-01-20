@@ -24,13 +24,13 @@ I'm a dreamy, dedicated and proactive person. Dedicating myself on things that I
 <img align="center" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
  <p>React</p>
  
- <img align="center" alt="React" width="26px" src="https://user-images.githubusercontent.com/88558875/150277168-c6ad6eaa-c4c5-4cc8-980f-0582400bc9b1.png" />
+ <img align="center" alt="React" width="24px" src="https://user-images.githubusercontent.com/88558875/150277168-c6ad6eaa-c4c5-4cc8-980f-0582400bc9b1.png" />
  <p>Redux</p>
  
  <img align="center" alt="React" width="28px" src="https://user-images.githubusercontent.com/88558875/150276711-3e9117f0-ac57-4ef0-84bb-18d6166b6944.png"/>
  <p>Node.js</p>
  
-  <img align="center" alt="React" width="30px" src="https://user-images.githubusercontent.com/88558875/150276983-1957c516-b2e0-4abb-a32d-fe17e4218c2d.png"/>
+  <img align="center" alt="React" width="33px" src="https://user-images.githubusercontent.com/88558875/150276983-1957c516-b2e0-4abb-a32d-fe17e4218c2d.png"/>
  <p>Express</p>
  
 <img align="center" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
