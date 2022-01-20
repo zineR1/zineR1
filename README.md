@@ -60,16 +60,15 @@ I'm a dreamy, dedicated and proactive person. Dedicating myself on things that I
 
 #### React - Redux - CSS - Javascript - Node.js - Express - Sequalize - PostgreSQL.
 
-<img align="center" alt="GitHub" src="https://user-images.githubusercontent.com/88558875/150282209-e5511063-32a0-4ea1-a554-14502da53da2.png"/>
-<img align="center" alt="GitHub" src="https://user-images.githubusercontent.com/88558875/150284096-053799b2-9ffa-4d54-a5e3-63b32cd05dcf.gif"/>
-<img align="center" alt="GitHub" src="https://user-images.githubusercontent.com/88558875/150283842-2e24e70b-aa01-47ac-8a33-d49559311c96.gif"/>
 
 ## CountriesApp
 ### Technologies:
 
 #### React - Redux - CSS - Javascript - Node.js - Express - Sequalize - PostgreSQL.
 
-
+<img align="center" alt="GitHub" src="https://user-images.githubusercontent.com/88558875/150282209-e5511063-32a0-4ea1-a554-14502da53da2.png"/>
+<img align="center" alt="GitHub" src="https://user-images.githubusercontent.com/88558875/150284096-053799b2-9ffa-4d54-a5e3-63b32cd05dcf.gif"/>
+<img align="center" alt="GitHub" src="https://user-images.githubusercontent.com/88558875/150283842-2e24e70b-aa01-47ac-8a33-d49559311c96.gif"/>
 
 
 
