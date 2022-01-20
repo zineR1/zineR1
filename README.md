@@ -8,6 +8,7 @@ I am a dreamy, dedicated and proactive person. Dedicating myself on things that 
 ### Full Stack Web Developer 🖥️
 
 ### Languages and Technologies 
+![visual](https://user-images.githubusercontent.com/88558875/150275726-6e7ac7c2-eb9d-4851-93dd-e05aa8398f66.png)
 
 
 
