@@ -61,6 +61,12 @@ I'm a dreamy, dedicated and proactive person. Dedicating myself on things that I
 #### React - Redux - CSS - Javascript - Node.js - Express - Sequalize - PostgreSQL.
 
 
+## CountriesApp
+### Technologies:
+
+#### React - Redux - CSS - Javascript - Node.js - Express - Sequalize - PostgreSQL.
+
+
 
 
 
