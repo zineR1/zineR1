@@ -1,43 +1,14 @@
 ### Hi there, I'm Agustin Dalvit 👋
 
+![Diseño sin título (11)](https://user-images.githubusercontent.com/88558875/150274577-bc2dddd9-8c54-4b22-8191-ee06484a9a5d.png)
+
+
 I am a dreamy, dedicated and proactive person. Dedicating myself on things that I like is my greatest fortune. Entrepreneurship has been always present in my life, therefore, carrying out projects and creating new things is what I enjoy the most.
 
 ### Full Stack Web Developer 🖥️
 
 ### Languages and Technologies 
 
-Visual Studio Code
-![image](https:/![agustín dalvit](https://user-images.githubusercontent.com/88558875/150273447-c983ac71-5556-448b-adc6-25524bf2dd8d.png)
-
-HTML5
-
-CSS3
-
-CSS3
-
-JavaScript
-
-JavaScript
-
-React
-
-React
-
-SQL
-
-SQL
-
-PostgreSql
-
-PostgreSql
-
-Git
-
-Git
-
-GitHub
-
-GitHub
 
 
 <!--
