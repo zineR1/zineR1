@@ -7,8 +7,7 @@ I am a dreamy, dedicated and proactive person. Dedicating myself on things that 
 ### Languages and Technologies 
 
 Visual Studio Code
-![image](https://user-images.githubusercontent.com/88558875/150271626-8e30ae0a-4f73-416c-9b74-74058e5eee2a.png)
-HTML5
+![image](https://user-images.githubusercontent.com/88558875/150271692-ef24fac0-a760-4f98-8375-8d381ca9910f.png)HTML5
 
 HTML5
 
