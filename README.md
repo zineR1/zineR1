@@ -8,22 +8,34 @@ I'm a dreamy, dedicated and proactive person. Dedicating myself on things that I
 ### Full Stack Web Developer 🖥️
 
 ### Languages and Technologies 
+
 <img align="center" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
   <p>Visual Studio Code</p>
+  
 <img align="center" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
  <p>HTML5</p>
+ 
 <img align="center" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
  <p>CSS3</p>
+ 
 <img align="center" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
  <p>JavaScript</p>
+ 
 <img align="center" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
  <p>React</p>
+ 
+ <img align="center" alt="React" width="26px" src="https://user-images.githubusercontent.com/88558875/150276711-3e9117f0-ac57-4ef0-84bb-18d6166b6944.png"/>
+ <p>Node.js</p>
+ 
 <img align="center" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
  <p>SQL</p>
+ 
 <img align="center" alt="PostgreSql" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/postgresql.svg" />
  <p>PostgreSql</p>
+ 
 <img align="center" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
  <p>Git</p>
+ 
 <img align="center" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
  <p>GitHub</p>
 
