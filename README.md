@@ -60,6 +60,8 @@ I'm a dreamy, dedicated and proactive person. Dedicating myself on things that I
 
 #### React - Redux - CSS - Javascript - Node.js - Express - Sequalize - PostgreSQL.
 
+I developed a SPA (Single Page Application) with ReactJs, Redux and CSS for the front-end and the use of NodeJs in conjunction with Sequelize and Express for the back-end. I worked with Postgresql to create the database and an external API called PokéApi to make all the requests to obtain the necessary information. In the app you can see many pokemons, different types of filters, search methods and the possibility of creating your own Pokemon.
+
 <img align="center" alt="GitHub" src="https://user-images.githubusercontent.com/88558875/150287172-da860491-4e16-4f62-93bb-f786e6b16962.png"/>
 <img align="center" alt="GitHub" src="https://user-images.githubusercontent.com/88558875/150288349-a61fcdcb-79a4-4f6a-ac7e-762c80a8fce1.gif"/>
 <img align="center" alt="GitHub" src="https://user-images.githubusercontent.com/88558875/150288661-e8f1a74d-c690-4a34-bd6a-78ddd2cf4f7d.gif"/>
@@ -68,6 +70,8 @@ I'm a dreamy, dedicated and proactive person. Dedicating myself on things that I
 ### Technologies:
 
 #### React - Redux - CSS - Javascript - Node.js - Express - Sequalize - PostgreSQL.
+
+I developed a SPA (Single Page Application) with ReactJs, Redux and CSS for the front-end and the use of NodeJs in conjunction with Sequelize and Express for the back-end. I worked with Postgresql to create the database and an external API called TheDogApi to make all the requests to obtain the necessary information. In the app you can see many dog breeds, different types of filters, search methods and the possibility of creating your own breed.
 
 <img align="center" alt="GitHub" src="https://user-images.githubusercontent.com/88558875/150282209-e5511063-32a0-4ea1-a554-14502da53da2.png"/>
 <img align="center" alt="GitHub" src="https://user-images.githubusercontent.com/88558875/150284096-053799b2-9ffa-4d54-a5e3-63b32cd05dcf.gif"/>
