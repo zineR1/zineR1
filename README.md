@@ -1,4 +1,4 @@
-# Hi there, I'm Agustin 👋
+## Hi there, I'm Agustin 👋
 
 ![Diseño sin título (17)](https://user-images.githubusercontent.com/88558875/150275343-9532ec24-db62-459e-a52d-1c51d4bec977.png)
 
@@ -7,11 +7,11 @@ I'm a dreamy, dedicated and proactive person. Dedicating myself on things that I
 
 ## Full Stack Web Developer 🖥️
 
-### 📍 Connect with me:
+<!-- ## 📍 Connect with me:
 
 [<img align="center" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="center" alt="email" width="22px" color="purple" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][email]
-<br />
+<br /> -->
 
 
 ### Languages and Technologies 
