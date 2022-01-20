@@ -1,6 +1,6 @@
 ### Hi there, I'm Agustin Dalvit 👋
 
-![Diseño sin título (15)](https://user-images.githubusercontent.com/88558875/150274874-624c95fc-af4e-4d3f-8514-5349ba64f53c.png)
+![Diseño sin título (16)](https://user-images.githubusercontent.com/88558875/150275120-34d50cdb-a3d8-419d-9dd1-5dcfbf1cead4.png)
 
 
 I am a dreamy, dedicated and proactive person. Dedicating myself on things that I like is my greatest fortune. Entrepreneurship has been always present in my life, therefore, carrying out projects and creating new things is what I enjoy the most.
