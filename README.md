@@ -65,6 +65,9 @@ I developed a SPA (Single Page Application) with ReactJs, Redux and CSS for the 
 <img align="center" alt="GitHub" src="https://user-images.githubusercontent.com/88558875/150287172-da860491-4e16-4f62-93bb-f786e6b16962.png"/>
 <img align="center" alt="GitHub" src="https://user-images.githubusercontent.com/88558875/150288349-a61fcdcb-79a4-4f6a-ac7e-762c80a8fce1.gif"/>
 <img align="center" alt="GitHub" src="https://user-images.githubusercontent.com/88558875/150288661-e8f1a74d-c690-4a34-bd6a-78ddd2cf4f7d.gif"/>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyAVEUYAU1o" 
+      title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; 
+      clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
 
 ## CountriesApp
 ### Technologies:
